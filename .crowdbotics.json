@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.6.2",
+    "cookiecutter_context": {
+      "project_name": "Still Mode",
+      "project_slug": "still_mode_3",
+      "project_dash_slug": "still-mode-3",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "vivekk@test.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
